@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\anuwat\source\repos\Pointer\Multihook\dllmain.cpp(24,14): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'DWORD'
+  Multihook.vcxproj -> C:\Users\anuwat\source\repos\Pointer\Debug\Multihook.dll
