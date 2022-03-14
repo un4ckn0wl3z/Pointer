@@ -1,2 +1,2 @@
 # Pointer
-Demonstrate how pointer work in Game Hacking 
+Demonstrate how pointer works in Game Hacking 
